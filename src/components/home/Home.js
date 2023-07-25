@@ -48,7 +48,7 @@ const Home = () => {
               padding: '0 20px',
             }}
           >
-            <SectionTitle>Nasza misja</SectionTitle>
+            <SectionTitle>Nasza Misja Jest Ważna</SectionTitle>
             <SectionDescription>
               Jesteśmy zespołem doświadczonych muzyków, którzy pasjonują się grą
               na skrzypcach, trąbce i fortepianie oraz tworzeniem muzyki. Naszym celem jest
